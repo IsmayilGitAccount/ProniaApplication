@@ -1,0 +1,62 @@
+﻿@model List<Tag>
+@{
+    int count = 0;
+}
+
+
+
+<div class="row">
+    <div class="col-lg-12 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">Tag Table</h4>
+                <p class="card-description">
+                    Add class <code>.table-striped</code>
+                </p>
+                <div class="table-responsive">
+                    <a asp-action="create" class="btn btn-success">Create Tag</a>
+                    <table class="table table-striped">
+                        <thead>
+                            <tr>
+                                <th>
+                                    No
+                                </th>
+                                <th>
+                                    Name
+                                </th>
+                                <th>
+                                    Settings
+                                </th>
+
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var tag in Model)
+                            {
+                                count++;
+                                <tr>
+
+                                    <td>
+                                        @count
+                                    </td>
+                                   
+                                    <td>
+                                        @tag.Name
+                                    </td>
+                                    <td>
+                                        <a asp-action="Update" asp-route-id="@tag.Id" class="btn btn-warning"><i class="mdi mdi-pencil"></i></a>
+                                        <a asp-action="Delete" asp-route-id="@tag.Id" class="btn btn-danger" alt="Delete"><i class="mdi mdi-delete-variant"></i></a>
+                                        <a class="btn btn-info" alt="View detail"><i class="mdi mdi-open-in-app"></i></a>
+
+                                    </td>
+
+                                </tr>
+                            }
+
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,104 @@
+﻿@model List<GetProductAdminVM>
+@{
+    int count = 0;
+}
+
+
+
+<div class="row">
+    <div class="col-lg-12 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">Create Product</h4>
+
+                    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+                    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+                    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+              
+                
+                    <div class="container mt-3">
+                        <!-- Alert -->
+                        <div class="alert alert-success alert-dismissible fade show" id="myAlert">
+                            <button type="button" class="close" data-dismiss="alert">&times;</button>
+                        <p>@Html.Raw(TempData["FileWarning"])</p>
+                        </div>
+                    </div>
+
+                    <!-- jQuery ilə yoxa çıxma -->
+                    <script>
+                        $(document).ready(function(){
+                            // 5 saniyədən sonra alert yoxa çıxsın
+                            setTimeout(function() {
+                                $('#myAlert').alert('close');
+                            }, 5000); // 5000 millisecond = 5 seconds
+                        });
+                    </script>
+               
+
+                <p class="card-description">
+                    Add class <code>.table-striped</code>
+                </p>
+                <div class="table-responsive">
+                    <a asp-action="create" class="btn btn-success">Create Product</a>
+                    <table class="table table-striped">
+                        <thead>
+                            <tr>
+                                <th>
+                                    No
+                                </th>
+                                <th>
+                                    Image
+                                </th>
+                                <th>
+                                    Name
+                                </th>
+                                <th>
+                                    Price
+                                </th>
+                                <th>
+                                    Category
+                                </th>
+                                <th>
+                                    Settings
+                                </th>
+
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (GetProductAdminVM productVM in Model)
+                            {
+                                count++;
+                                <tr>
+
+                                    <td>
+                                        @count
+                                    </td>
+                                    <td>
+                                        <img src="~/assets/images/website-images/@productVM.Image" />
+                                    </td>
+                                    <td>
+                                        @productVM.Name
+                                    </td>
+                                    <td>
+                                        @productVM.Price
+                                    </td>
+                                    <td>
+                                        @productVM.CategoryName
+                                    </td>
+                                    <td>
+                                        <a asp-action="Update" asp-route-id="@productVM.Id" class="btn btn-warning"><i class="mdi mdi-pencil"></i></a>
+                                        <a asp-action="Delete" asp-route-id="@productVM.Id" class="btn btn-danger" alt="Delete"><i class="mdi mdi-delete-variant"></i></a>
+                                        <a asp-action="Details" asp-route-id="@productVM.Id" class="btn btn-info" alt="View detail"><i class="mdi mdi-open-in-app"></i></a>
+                                        
+                                    </td>
+
+                                </tr>
+                            }
+
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

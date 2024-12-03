@@ -1,0 +1,373 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS TUF\\Downloads\\Computer-master\\Computer-master\\ProniaApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF60F034-EF84-48E3-A71C-9E734B5EDC5D}|ProniaApplication.csproj|c:\\users\\asus tuf\\downloads\\computer-master\\computer-master\\proniaapplication\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF60F034-EF84-48E3-A71C-9E734B5EDC5D}|ProniaApplication.csproj|solutionrelative:areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF60F034-EF84-48E3-A71C-9E734B5EDC5D}|ProniaApplication.csproj|c:\\users\\asus tuf\\downloads\\computer-master\\computer-master\\proniaapplication\\areas\\viewmodels\\products\\updateproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF60F034-EF84-48E3-A71C-9E734B5EDC5D}|ProniaApplication.csproj|solutionrelative:areas\\viewmodels\\products\\updateproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF60F034-EF84-48E3-A71C-9E734B5EDC5D}|ProniaApplication.csproj|c:\\users\\asus tuf\\downloads\\computer-master\\computer-master\\proniaapplication\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF60F034-EF84-48E3-A71C-9E734B5EDC5D}|ProniaApplication.csproj|solutionrelative:areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF60F034-EF84-48E3-A71C-9E734B5EDC5D}|ProniaApplication.csproj|c:\\users\\asus tuf\\downloads\\computer-master\\computer-master\\proniaapplication\\areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF60F034-EF84-48E3-A71C-9E734B5EDC5D}|ProniaApplication.csproj|solutionrelative:areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF60F034-EF84-48E3-A71C-9E734B5EDC5D}|ProniaApplication.csproj|c:\\users\\asus tuf\\downloads\\computer-master\\computer-master\\proniaapplication\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF60F034-EF84-48E3-A71C-9E734B5EDC5D}|ProniaApplication.csproj|solutionrelative:areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF60F034-EF84-48E3-A71C-9E734B5EDC5D}|ProniaApplication.csproj|c:\\users\\asus tuf\\downloads\\computer-master\\computer-master\\proniaapplication\\areas\\viewmodels\\products\\createproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF60F034-EF84-48E3-A71C-9E734B5EDC5D}|ProniaApplication.csproj|solutionrelative:areas\\viewmodels\\products\\createproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF60F034-EF84-48E3-A71C-9E734B5EDC5D}|ProniaApplication.csproj|c:\\users\\asus tuf\\downloads\\computer-master\\computer-master\\proniaapplication\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF60F034-EF84-48E3-A71C-9E734B5EDC5D}|ProniaApplication.csproj|solutionrelative:areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF60F034-EF84-48E3-A71C-9E734B5EDC5D}|ProniaApplication.csproj|c:\\users\\asus tuf\\downloads\\computer-master\\computer-master\\proniaapplication\\areas\\admin\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF60F034-EF84-48E3-A71C-9E734B5EDC5D}|ProniaApplication.csproj|solutionrelative:areas\\admin\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF60F034-EF84-48E3-A71C-9E734B5EDC5D}|ProniaApplication.csproj|c:\\users\\asus tuf\\downloads\\computer-master\\computer-master\\proniaapplication\\views\\shop\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF60F034-EF84-48E3-A71C-9E734B5EDC5D}|ProniaApplication.csproj|solutionrelative:views\\shop\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF60F034-EF84-48E3-A71C-9E734B5EDC5D}|ProniaApplication.csproj|c:\\users\\asus tuf\\downloads\\computer-master\\computer-master\\proniaapplication\\utilities\\extension\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF60F034-EF84-48E3-A71C-9E734B5EDC5D}|ProniaApplication.csproj|solutionrelative:utilities\\extension\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF60F034-EF84-48E3-A71C-9E734B5EDC5D}|ProniaApplication.csproj|c:\\users\\asus tuf\\downloads\\computer-master\\computer-master\\proniaapplication\\areas\\admin\\controllers\\colorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF60F034-EF84-48E3-A71C-9E734B5EDC5D}|ProniaApplication.csproj|solutionrelative:areas\\admin\\controllers\\colorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF60F034-EF84-48E3-A71C-9E734B5EDC5D}|ProniaApplication.csproj|c:\\users\\asus tuf\\downloads\\computer-master\\computer-master\\proniaapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CF60F034-EF84-48E3-A71C-9E734B5EDC5D}|ProniaApplication.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF60F034-EF84-48E3-A71C-9E734B5EDC5D}|ProniaApplication.csproj|c:\\users\\asus tuf\\downloads\\computer-master\\computer-master\\proniaapplication\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF60F034-EF84-48E3-A71C-9E734B5EDC5D}|ProniaApplication.csproj|solutionrelative:controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF60F034-EF84-48E3-A71C-9E734B5EDC5D}|ProniaApplication.csproj|c:\\users\\asus tuf\\downloads\\computer-master\\computer-master\\proniaapplication\\models\\producttag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF60F034-EF84-48E3-A71C-9E734B5EDC5D}|ProniaApplication.csproj|solutionrelative:models\\producttag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF60F034-EF84-48E3-A71C-9E734B5EDC5D}|ProniaApplication.csproj|c:\\users\\asus tuf\\downloads\\computer-master\\computer-master\\proniaapplication\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF60F034-EF84-48E3-A71C-9E734B5EDC5D}|ProniaApplication.csproj|solutionrelative:areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF60F034-EF84-48E3-A71C-9E734B5EDC5D}|ProniaApplication.csproj|c:\\users\\asus tuf\\downloads\\computer-master\\computer-master\\proniaapplication\\areas\\admin\\views\\category\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF60F034-EF84-48E3-A71C-9E734B5EDC5D}|ProniaApplication.csproj|solutionrelative:areas\\admin\\views\\category\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF60F034-EF84-48E3-A71C-9E734B5EDC5D}|ProniaApplication.csproj|c:\\users\\asus tuf\\downloads\\computer-master\\computer-master\\proniaapplication\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF60F034-EF84-48E3-A71C-9E734B5EDC5D}|ProniaApplication.csproj|solutionrelative:areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF60F034-EF84-48E3-A71C-9E734B5EDC5D}|ProniaApplication.csproj|c:\\users\\asus tuf\\downloads\\computer-master\\computer-master\\proniaapplication\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF60F034-EF84-48E3-A71C-9E734B5EDC5D}|ProniaApplication.csproj|solutionrelative:areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF60F034-EF84-48E3-A71C-9E734B5EDC5D}|ProniaApplication.csproj|c:\\users\\asus tuf\\downloads\\computer-master\\computer-master\\proniaapplication\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF60F034-EF84-48E3-A71C-9E734B5EDC5D}|ProniaApplication.csproj|solutionrelative:areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF60F034-EF84-48E3-A71C-9E734B5EDC5D}|ProniaApplication.csproj|c:\\users\\asus tuf\\downloads\\computer-master\\computer-master\\proniaapplication\\areas\\admin\\controllers\\tagcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF60F034-EF84-48E3-A71C-9E734B5EDC5D}|ProniaApplication.csproj|solutionrelative:areas\\admin\\controllers\\tagcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF60F034-EF84-48E3-A71C-9E734B5EDC5D}|ProniaApplication.csproj|c:\\users\\asus tuf\\downloads\\computer-master\\computer-master\\proniaapplication\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF60F034-EF84-48E3-A71C-9E734B5EDC5D}|ProniaApplication.csproj|solutionrelative:areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF60F034-EF84-48E3-A71C-9E734B5EDC5D}|ProniaApplication.csproj|c:\\users\\asus tuf\\downloads\\computer-master\\computer-master\\proniaapplication\\migrations\\20241202201951_createdatabases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF60F034-EF84-48E3-A71C-9E734B5EDC5D}|ProniaApplication.csproj|solutionrelative:migrations\\20241202201951_createdatabases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS TUF\\Downloads\\Computer-master\\Computer-master\\ProniaApplication\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\ASUS TUF\\Downloads\\Computer-master\\Computer-master\\ProniaApplication\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAAoBAAAAAAAAAADwvxkBAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T08:03:25.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateProductVM.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS TUF\\Downloads\\Computer-master\\Computer-master\\ProniaApplication\\Areas\\ViewModels\\Products\\UpdateProductVM.cs",
+              "RelativeDocumentMoniker": "Areas\\ViewModels\\Products\\UpdateProductVM.cs",
+              "ToolTip": "C:\\Users\\ASUS TUF\\Downloads\\Computer-master\\Computer-master\\ProniaApplication\\Areas\\ViewModels\\Products\\UpdateProductVM.cs",
+              "RelativeToolTip": "Areas\\ViewModels\\Products\\UpdateProductVM.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwBYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T07:08:59.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateProductVM.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS TUF\\Downloads\\Computer-master\\Computer-master\\ProniaApplication\\Areas\\ViewModels\\Products\\CreateProductVM.cs",
+              "RelativeDocumentMoniker": "Areas\\ViewModels\\Products\\CreateProductVM.cs",
+              "ToolTip": "C:\\Users\\ASUS TUF\\Downloads\\Computer-master\\Computer-master\\ProniaApplication\\Areas\\ViewModels\\Products\\CreateProductVM.cs",
+              "RelativeToolTip": "Areas\\ViewModels\\Products\\CreateProductVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T07:08:54.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS TUF\\Downloads\\Computer-master\\Computer-master\\ProniaApplication\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ASUS TUF\\Downloads\\Computer-master\\Computer-master\\ProniaApplication\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T06:21:52.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS TUF\\Downloads\\Computer-master\\Computer-master\\ProniaApplication\\Areas\\Admin\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ASUS TUF\\Downloads\\Computer-master\\Computer-master\\ProniaApplication\\Areas\\Admin\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAgwC0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T14:25:12.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS TUF\\Downloads\\Computer-master\\Computer-master\\ProniaApplication\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\ASUS TUF\\Downloads\\Computer-master\\Computer-master\\ProniaApplication\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAswJ0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:49:14.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS TUF\\Downloads\\Computer-master\\Computer-master\\ProniaApplication\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS TUF\\Downloads\\Computer-master\\Computer-master\\ProniaApplication\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvwwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T13:26:10.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS TUF\\Downloads\\Computer-master\\Computer-master\\ProniaApplication\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ToolTip": "C:\\Users\\ASUS TUF\\Downloads\\Computer-master\\Computer-master\\ProniaApplication\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ViewState": "AgIAAI8AAAAAAAAAAADwv6EAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T13:52:12.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FileValidator.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS TUF\\Downloads\\Computer-master\\Computer-master\\ProniaApplication\\Utilities\\Extension\\FileValidator.cs",
+              "RelativeDocumentMoniker": "Utilities\\Extension\\FileValidator.cs",
+              "ToolTip": "C:\\Users\\ASUS TUF\\Downloads\\Computer-master\\Computer-master\\ProniaApplication\\Utilities\\Extension\\FileValidator.cs",
+              "RelativeToolTip": "Utilities\\Extension\\FileValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T06:33:06.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ColorController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS TUF\\Downloads\\Computer-master\\Computer-master\\ProniaApplication\\Areas\\Admin\\Controllers\\ColorController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\ColorController.cs",
+              "ToolTip": "C:\\Users\\ASUS TUF\\Downloads\\Computer-master\\Computer-master\\ProniaApplication\\Areas\\Admin\\Controllers\\ColorController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\ColorController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAIwEYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:59:29.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS TUF\\Downloads\\Computer-master\\Computer-master\\ProniaApplication\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ASUS TUF\\Downloads\\Computer-master\\Computer-master\\ProniaApplication\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T14:03:25.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS TUF\\Downloads\\Computer-master\\Computer-master\\ProniaApplication\\Views\\Shop\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shop\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ASUS TUF\\Downloads\\Computer-master\\Computer-master\\ProniaApplication\\Views\\Shop\\Details.cshtml",
+              "RelativeToolTip": "Views\\Shop\\Details.cshtml",
+              "ViewState": "AgIAAOwBAAAAAAAAAAAAAPABAACVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T13:33:42.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS TUF\\Downloads\\Computer-master\\Computer-master\\ProniaApplication\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\ASUS TUF\\Downloads\\Computer-master\\Computer-master\\ProniaApplication\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAA4wKEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T14:03:03.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS TUF\\Downloads\\Computer-master\\Computer-master\\ProniaApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS TUF\\Downloads\\Computer-master\\Computer-master\\ProniaApplication\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-02T20:18:31.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20241202201951_CreateDatabases.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS TUF\\Downloads\\Computer-master\\Computer-master\\ProniaApplication\\Migrations\\20241202201951_CreateDatabases.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241202201951_CreateDatabases.cs",
+              "ToolTip": "C:\\Users\\ASUS TUF\\Downloads\\Computer-master\\Computer-master\\ProniaApplication\\Migrations\\20241202201951_CreateDatabases.cs",
+              "RelativeToolTip": "Migrations\\20241202201951_CreateDatabases.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T20:19:51.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS TUF\\Downloads\\Computer-master\\Computer-master\\ProniaApplication\\Areas\\Admin\\Views\\Category\\Details.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Category\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ASUS TUF\\Downloads\\Computer-master\\Computer-master\\ProniaApplication\\Areas\\Admin\\Views\\Category\\Details.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Category\\Details.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAgwCAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T14:25:17.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS TUF\\Downloads\\Computer-master\\Computer-master\\ProniaApplication\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ASUS TUF\\Downloads\\Computer-master\\Computer-master\\ProniaApplication\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T14:26:09.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS TUF\\Downloads\\Computer-master\\Computer-master\\ProniaApplication\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS TUF\\Downloads\\Computer-master\\Computer-master\\ProniaApplication\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T14:26:11.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductTag.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS TUF\\Downloads\\Computer-master\\Computer-master\\ProniaApplication\\Models\\ProductTag.cs",
+              "RelativeDocumentMoniker": "Models\\ProductTag.cs",
+              "ToolTip": "C:\\Users\\ASUS TUF\\Downloads\\Computer-master\\Computer-master\\ProniaApplication\\Models\\ProductTag.cs",
+              "RelativeToolTip": "Models\\ProductTag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T15:04:09.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS TUF\\Downloads\\Computer-master\\Computer-master\\ProniaApplication\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Users\\ASUS TUF\\Downloads\\Computer-master\\Computer-master\\ProniaApplication\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "Controllers\\ShopController.cs",
+              "ViewState": "AgIAABEAAAAAkJmZmZm5vyAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:29:09.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS TUF\\Downloads\\Computer-master\\Computer-master\\ProniaApplication\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS TUF\\Downloads\\Computer-master\\Computer-master\\ProniaApplication\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T13:26:33.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TagController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS TUF\\Downloads\\Computer-master\\Computer-master\\ProniaApplication\\Areas\\Admin\\Controllers\\TagController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\TagController.cs",
+              "ToolTip": "C:\\Users\\ASUS TUF\\Downloads\\Computer-master\\Computer-master\\ProniaApplication\\Areas\\Admin\\Controllers\\TagController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\TagController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwDoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T06:22:12.711Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

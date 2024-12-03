@@ -1,0 +1,85 @@
+﻿@model Product
+
+@{
+    int count = 0;
+    count++;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Category Table</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        custom-thead { 
+            background-color: white;  color: aqua;  
+        }
+    </style>
+</head>
+<body>
+    <div class="container mt-5">
+        <h2 class="mb-4">Category List</h2>
+        <table class="table table-striped">
+            <thead class="thead-dark">
+                <tr>
+                    <th scope="col">№</th>
+                    <th scope="col">Product Id</th>
+                    <th scope="col">Product Image</th>
+                    <th scope="col">Product Name</th>
+                    <th scope="col">Created Time</th>
+                    <th scope="col">Product Tags</th>
+                    <th scope="col">Product Colors</th>
+                    <th scope="col">Product Sizes</th>
+                    @* <th scope="col"></th>
+                     <th scope="col"></th> *@
+                </tr>
+            </thead>
+            <tbody>
+                
+                
+                    <tr>
+                        <td>@count</td>
+                        <td>@Model.Id</td>
+                        <td><img src="~/assets/images/website-images/@Model.productsImages.FirstOrDefault(pi=>pi.IsPrimary==true).ImageURL" /></td>
+                        <td>@Model.Name</td>
+                        <td>@Model.CreatedAt</td>
+
+
+                    <td>
+                        @{
+                            var tags = string.Join("/", Model.ProductTags.Select(t => t.Tag.Name));
+                            <p>@tags</p>
+                            ;
+                        }
+                    </td>
+
+                    <td>
+                        @{
+                            var colors = string.Join("/", Model.ProductColors.Select(c => c.Color.Name));
+                            <p>@colors</p>
+                            ;
+                        }
+                    </td>
+
+                    <td>
+                        @{
+                            var sizes = string.Join("/", Model.ProductSizes.Select(s => s.Size.SizeName));
+                            <p>@sizes</p>
+                            ;
+                        }
+                    </td>
+
+
+                    
+                    </tr>
+                
+                
+            </tbody>
+        </table>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>

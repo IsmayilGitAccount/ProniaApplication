@@ -1,0 +1,25 @@
+﻿@using ProniaApplication.Areas.ViewModels.Sizes
+@model CreateSizeVM
+
+<div class="row">
+    <div class="col-12 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">Create Color</h4>
+                <p class="card-description">
+                    Basic form elements
+                </p>
+                <form class="forms-sample" method="post">
+                    <div class="form-group">
+                        <label for="exampleInputName1">Name</label>
+                        <input asp-for="SizeName" class="form-control" id="SizeName" placeholder="Enter size name">
+                        <span asp-validation-for="SizeName" class="text-danger"></span>
+                    </div>
+
+                    <button type="submit" class="btn btn-primary me-2">Submit</button>
+                    <button class="btn btn-light">Cancel</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
